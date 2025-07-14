@@ -7,7 +7,7 @@ Each folder has the following strucure:
 - A .yml file for conda enviroment config 
 
 ## Folder Descirption
-- `Dimensionality Reduction` includes tSNE, PCA, K-Clustering
+- `Dimensionality_Reduction_` includes tSNE, PCA, K-Clustering
 
 ## LICENSE
 - License is listed at the end of the file if it's not fully original
